@@ -1,18 +1,18 @@
-# Aula prática - Markdown
+# Sala prove - Ribasso
 
-Este repositório servirá de base para você praticar a estrutura de texto markdown. 
+Questo repository servirà come base per esercitarti nella struttura del testo markdown.
 
-Primeiramente faça um fork, edite inserindo a pesquisa, e no final, faça o commit para salvar o conteúdo.
+Per prima cosa crea un fork, modificalo inserendo una ricerca, e no final, fai un commit per salvare il contenuto.
 
-Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+Potrai studiare il contenuto [cliccando qui](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
-#### Sobre a atividade, você deverá considerar o seguinte assunto:
+#### Per quanto riguarda l'attività, dovresti considerare il seguente presupposto:
 
-- A pesquisa descritiva será sobre Engenharia de Requisitos
-- Destaque o conceito geral, tipos de requisitos e considerer exemplos
-- Deverá conter no mínimo 2 imagens
-- Deverá inserir uma tabela comparativa, exemplicando o use case
-- Deverá inserir links para acessar sites de conteúdo sobre o assunto.
+- Verrà condotta un'indagine descrittiva sui requisiti ingegneristici
+- Destaque o concetto generale, tipi di requisiti e considerare esempi
+- Dovrebbe contenere almeno 2 immagini
+- Dovresti inserire una tabella comparativa, esemplificativa di un caso d'uso
+- È necessario inserire collegamenti per accedere a siti relativi ai contenuti sull'argomento.
 
 
-## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+## Andiamo la! Inizia l'attività con il logo qui sotto 👇👇👇
